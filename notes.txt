@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 terminalen i analen
+=======
+SHUUUU
+hata aik och djurgården
+terminalemn i analen
+>>>>>>> 875b76e56ba351ee1583f31ceeee966af3f06766
